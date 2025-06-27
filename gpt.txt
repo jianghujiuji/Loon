@@ -1,0 +1,24 @@
+# NAME: onedrive
+# AUTHOR:
+# REPO: 
+# UPDATED: 2024-07-03 16:16:08
+# DOMAIN: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# IP-ASN: 
+# IP-CIDR: 
+# IP-CIDR6: 
+# TOTAL: 
+
+
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,bard.google
+DOMAIN-KEYWORD,chat.openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,poe
+DOMAIN-SUFFIX,chat.openai.com
